@@ -34,9 +34,8 @@ Then the user will be prompt to add an exercise and select the exercise type. Ex
 Afterwards the user will complete te details of the exercise selected . When completed the user will select complete or add exercise, should they wish to continue to another exercise type. 
 
 Finally the user will be able to access their stats by selecting Dashboard located in the nav bar . 
-    ```demo
-    ![demo](demo/workout.gif)
-    ```
+
+![demo](demo/workout.gif)
 
 ## License
 This project uses the MIT license.
